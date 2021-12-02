@@ -1,3 +1,2 @@
-C:\Users\Jane_\Desktop\Power Query\Combined Open Order to AI orders.xlsx
-Supplier Name
-жпнд
+1st line: excel file to split
+2nd line: column name
